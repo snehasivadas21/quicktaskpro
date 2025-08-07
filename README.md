@@ -31,7 +31,7 @@ It allows organizations to manage projects, assign tasks, and monitor progressâ€
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/quicktask-pro.git
+https://github.com/snehasivadas21/quicktaskpro.git
 cd quicktask
 
 python -m venv env
