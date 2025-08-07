@@ -37,6 +37,19 @@ cd quicktask
 python -m venv env
 env\Scripts\activate --- on Windows
 
+POST /register/              -> Register a new user
+POST /token/                 -> Get access and refresh token
+POST /token/refresh/         -> Refresh your access token
+
+GET /organization/          - List organizations
+POST /organization/         - Create organization
+
+GET /projects/              - List projects
+POST /projects/             - Create a project
+
+GET /projects/              - List projects
+POST /projects/             - Create a project
+
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
