@@ -22,7 +22,7 @@ It allows organizations to manage projects, assign tasks, and monitor progressâ€
 - **Authentication**: JWT (SimpleJWT)
 - **Database**: SQLite (for local development)
 - **Env Management**: `python-decouple`
-- **Hosting Ready**: Can be deployed to platforms like Render or Railway
+- **Hosting Ready**: Can be deployed to platforms like Render --> https://quicktaskpro-2.onrender.com
 
 ---
 
